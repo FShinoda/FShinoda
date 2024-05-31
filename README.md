@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=D6101E&random=false&width=750&height=44&lines=Greetings!+I'm+Fernanda+Shinoda+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=FF3B2E&random=false&width=750&height=44&lines=Greetings!+I'm+Fernanda+Shinoda+%F0%9F%91%8B)](https://git.io/typing-svg)
 ----
 #### A 22yo Fullstack Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
 
@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
 
 ## Github Stats
-<!--
 <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FShinoda&theme=codeSTACKr" alt="FShinoda's GitHub Stats"/></td>
@@ -37,7 +36,7 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FShinoda&theme=codeSTACKr" alt="FShinoda's GitHub Stats"/></td>
     </tr>
 </table>
--->
+<!--
 <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
@@ -46,4 +45,4 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
     </tr>
 </table>
-
+-->
