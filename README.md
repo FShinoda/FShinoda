@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=6000&color=FF5B50&random=false&width=750&height=44&lines=Greetings!+I'm+Fernanda+Shinoda+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=5000&color=FF5B50&random=false&width=750&height=44&lines=Greetings!+I'm+Fernanda+Shinoda+%F0%9F%91%8B)](https://git.io/typing-svg)
 ----
 #### A 22yo Fullstack Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
 
