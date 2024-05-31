@@ -2,9 +2,9 @@
 ----
 #### A 22yo Fullstack Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
 
-:raising_hand_woman: She/Her <br>
-:mortar_board: Bachelor in Information Systems - ESPM <br>
-:star: Co-founder and developer of <i>:construction: Comming Soon :eyes: ... :construction:</i>
+- :raising_hand_woman: She/Her <br>
+- :mortar_board: Bachelor in Information Systems - ESPM <br>
+- :star: Co-founder and developer of <i>:construction: Comming Soon :eyes: ... :construction:</i>
 
 ## Languages and Tools
 <!--
