@@ -6,7 +6,7 @@
 :mortar_board: Bachelor in Information Systems - ESPM <br>
 :star: Co-founder and developer of <i>:construction: Comming Soon :eyes: ... :construction:</i>
 
-## :hammer_and_pick: Languages and Tools
+## Languages and Tools
 <!--
 ![FShinoda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FShinoda&layout=compact&title_color=ff1324&text_color=eeeeee&bg_color=111111&border_color=222222&include_all_commits=true&border_radius=0) 
 -->
@@ -23,11 +23,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-## :mag: Find me on
+## Find me on
 <a href="mailto:fernanda.shinoda@hotmail.com?subject=Message" target="_blank" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
 
-## :bar_chart: Github Stats
+## Github Stats
 <!--
 <table align="center" width="100%" height="100%" >
     <tr>
