@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
 
 ## :bar_chart: Github Stats
-
+<!--
 <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FShinoda&theme=codeSTACKr" alt="FShinoda's GitHub Stats"/></td>
@@ -37,7 +37,7 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FShinoda&theme=codeSTACKr" alt="FShinoda's GitHub Stats"/></td>
     </tr>
 </table>
-<!--
+-->
 <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
@@ -46,4 +46,4 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
     </tr>
 </table>
--->
+
