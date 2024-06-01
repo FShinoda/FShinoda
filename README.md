@@ -53,3 +53,6 @@
     </tr>
 </table>
 -->
+<div align="center">
+  See my ⭐<a href="https://github.com/FShinoda?tab=stars">Stars section</a> to a more organized repos view!
+</div>
