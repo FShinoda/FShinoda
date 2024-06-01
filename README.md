@@ -23,11 +23,6 @@
 <br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
-## Find me on
-<a href="mailto:fernanda.shinoda@hotmail.com?subject=Message" target="_blank" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
-
 ## Certifications, Badges & Courses
 
 <a href="https://drive.google.com/file/d/16CwADvhwJUimWmLz5FfkDro9DToTAGE5/view" target="_blank" rel="noopener noreferrer"><img alt="AWS Cloud Practitioner" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png" width=100px height=100px /><a>
@@ -35,6 +30,9 @@
 <a href="https://drive.google.com/file/d/1EsGf2IAg6XLFzw2LsK5eap6CIz6jLQFN/view" target="_blank" rel="noopener noreferrer"><img alt="PCAP: Programming Essentials in Python" src="https://home.pearsonvue.com/getattachment/Clients/Python-Institute/pcap-31-xx.png.aspx?lang=en-US&width=200&height=200" width=100px height=100px /></a>
 <a href="https://www.credly.com/badges/a487277c-1b9a-4a0d-8166-d1e9247c92cf/linked_in_profile" target="_blank" rel="noopener noreferrer"><img alt="Astronomer Certification for Apache Airflow Fundamentals" src="./src/airflow-fundamentals-badge.png" width=100px height=100px /></a>
 
+## Find me on
+<a href="mailto:fernanda.shinoda@hotmail.com?subject=Message" target="_blank" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
 
 ## Github Stats
 <table align="center" width="100%" height="100%" >
