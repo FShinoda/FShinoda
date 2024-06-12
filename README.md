@@ -5,7 +5,8 @@
 - :raising_hand_woman: She/Her <br>
 - :mortar_board: Bachelor in Information Systems - ESPM <br>
 - :star: Co-founder and developer of <i>:construction: Comming Soon :eyes: ... :construction:</i>
-- :pushpin: Currently doing The Odin Project courses and in Generation's Java Fullstack Bootcamp!
+- :white_check_mark: Finished The Odin Project Foundations course and fully recommend it for those who are beginners!
+- :dart: Currently doing Origamid HTML CSS course and in Generation's Java Fullstack Bootcamp!
 
 ## Languages and Tools
 <!--
