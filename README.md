@@ -22,6 +22,7 @@
 ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](#)
 <br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
