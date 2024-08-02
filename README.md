@@ -13,17 +13,20 @@
 ![FShinoda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FShinoda&layout=compact&title_color=ff1324&text_color=eeeeee&bg_color=111111&border_color=222222&include_all_commits=true&border_radius=0) 
 -->
 
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)](#)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](#)
 ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](#)
+<br>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](#)
-<br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## Certifications, Badges & Courses
