@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=5000&color=FF5B50&random=false&width=750&height=44&lines=Greetings!+I'm+Fernanda+Shinoda+%F0%9F%91%8B)](https://git.io/typing-svg)
 ----
-#### A 22yo Fullstack Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
+#### A 22yo Front-end Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
 
 - :raising_hand_woman: She/Her <br>
 - :mortar_board: Bachelor in Information Systems - ESPM <br>
 - :star: Co-founder and developer of <i>:construction: Comming Soon :eyes: ... :construction:</i>
 - :white_check_mark: Finished The Odin Project Foundations course and fully recommend it for those who are beginners!
-- :dart: Currently doing [The Odin Project](https://www.theodinproject.com/)'s FullStack JavaScript Course and in [Generation](https://www.generation.org/)'s Java Fullstack Bootcamp!
+- :dart: Currently doing [The Odin Project](https://www.theodinproject.com/)'s FullStack JavaScript Course!
 
 ## Languages and Tools
 <!--
