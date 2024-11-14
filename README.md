@@ -19,6 +19,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)](#)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](#)
 ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white)
@@ -35,6 +36,7 @@
 <a href="https://www.credential.net/26bf5f4f-6af3-49c9-94ef-357bb4b0acb2" target="_blank" rel="noopener noreferrer"><img alt="Google Digital Leader" src="https://templates.images.credential.net/16601179376516142147983414073734.png" width=100px height=100px /></a>
 <a href="https://drive.google.com/file/d/1EsGf2IAg6XLFzw2LsK5eap6CIz6jLQFN/view" target="_blank" rel="noopener noreferrer"><img alt="PCAP: Programming Essentials in Python" src="https://pythoninstitute.org/assets/61f11f7719dd3800707549.png" width=100px height=100px /></a>
 <a href="https://www.credly.com/badges/a487277c-1b9a-4a0d-8166-d1e9247c92cf/linked_in_profile" target="_blank" rel="noopener noreferrer"><img alt="Astronomer Certification for Apache Airflow Fundamentals" src="./src/airflow-fundamentals-badge.png" width=100px height=100px /></a>
+<a href="https://drive.google.com/file/d/1Y18O1ZwGJg-XckxNtJNHWTEN4jkwfl-j/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img alt="EF Set C2 English Certificate" src="./src/EF-C2-badge-cropped.png" width=100px height=100px/></a>
 
 ## Find me on
 <a href="mailto:fernanda.shinoda@hotmail.com?subject=Message" target="_blank" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
