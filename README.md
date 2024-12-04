@@ -5,7 +5,7 @@
 - :raising_hand_woman: She/Her <br>
 - :mortar_board: Bachelor in Information Systems - ESPM <br>
 - :briefcase: Currently working at Khipo
-- :star: Co-founder and developer of <i>:construction: Comming Soon :eyes: ... :construction:</i>
+- :star: Co-founder and developer of [Capybara FePe](https://github.com/capybara-fepe)
 - :white_check_mark: Finished The Odin Project Foundations course and fully recommend it for those who are beginners!
 - :dart: Currently doing [The Odin Project](https://www.theodinproject.com/)'s FullStack JavaScript Course!
 
