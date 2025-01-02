@@ -2,7 +2,7 @@
 ----
 #### A 22yo Front-end Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
 
-- :raising_hand_woman: She/Her <br>
+- :raising_hand_woman: Fernanda Carreira Martins Shinoda (She/Her) <br>
 - :mortar_board: Bachelor in Information Systems - ESPM <br>
 - :briefcase: Currently working at Khipo
 - :star: Co-founder and developer of [Capybara FePe](https://github.com/capybara-fepe)
