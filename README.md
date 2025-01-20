@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=5000&color=FF5B50&random=false&width=750&height=44&lines=Greetings!+I'm+Fernanda+Shinoda+%F0%9F%91%8B)](https://git.io/typing-svg)
 ----
-#### A 22yo Front-end Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
+#### A 23yo Front-end Developer and UI/UX enthusiast. Willing to use technology to create a better world :sparkles:
 
 - :raising_hand_woman: Fernanda Carreira Martins Shinoda (She/Her) <br>
 - :mortar_board: Bachelor in Information Systems - ESPM <br>
